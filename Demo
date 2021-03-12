@@ -9,3 +9,5 @@ with open
 numpy
 classes 
 defining functions
+tkinter 
+calling functions
